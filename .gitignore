@@ -73,3 +73,10 @@ $RECYCLE.BIN/
 
 # Windows shortcuts
 *.lnk
+*.pdb
+*.exp
+*.sdf
+*.zip
+*.ilk
+*.tlog
+*.7z
